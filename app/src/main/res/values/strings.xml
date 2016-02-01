@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+
+    <string name="take_small_photo">Small photo</string>
+    <string name="take_large_photo">Large photo</string>
+    <string name="file_error">The file was not created</string>
+
+</resources>
